@@ -14,3 +14,13 @@ Terms to collect (can collect to todo list):
 * Seagul spread
 * Cholesky Decomposition
 * Pair trading strategy: correlation
+
+## 20240102
+
+### (Observation) Monte Carlo for Risk Simulation
+
+Tags: Observation
+
+Simulation must be done in return space otherwise the output distribution might be meaningless. E.g. when considered in returns, both SPX and AAPL looks like some sort of very thin normal distribution, and the simulation outcome from this is normal distribution as well.
+
+When not using return space as input, output can seem random or uniform. This is what happened with Ray's https://finrisk.streamlit.app/ in Nov 2023.
