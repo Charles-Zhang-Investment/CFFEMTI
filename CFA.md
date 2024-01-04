@@ -1,6 +1,6 @@
 # CFA
 
-(Shouldn't this be migrated to CFFEMTI repo?)
+> "CFA exams test understanding not ability to regurgitate material." Sounds intelligent, and that makes it fun.
 
 ## Dated
 
@@ -43,9 +43,13 @@ As of 2023-12-04:
 
 #### Preview of Resources
 
+Tags: Reference, Resource
+
+Preliminary:
+
 * CFA website itself
 * CFA textbook (physical)
-* CFA textbook (vitalsource digital)
+* CFA textbook (vitalsource digital, which we have both a totalimagine.com account and a personal gmail account)
 * Kaplan Financial Education trainings (see OTPP email)
 
 Kaplan Financial Education training resources:
@@ -66,6 +70,12 @@ Kaplan Financial Education training resources:
 * Getting Started Guide (August 2024)
 * SchweserNotes - Online (February 2024)
 
+Main:
+
+1. Schweser Notes
+2. ~~Schweser Secret Sauce~~ (there is one more physical book with large binder springs, pending identification. Workbooks?)
+3. Charles personal notes (aka. this CFFEMTI repo)
+
 ### 20231228
 
 #### Instructions
@@ -83,9 +93,15 @@ Combine Streamlit and Observable?
 Provide free signal and free data dashboards based on free platforms for free, hosted on static websites and do not concern user data storage.
 Use LLM based topic/keyword extraction from PDF.
 
+### 20240104
+
+#### Reinder of (Abbrevation) Terms
+
+* Global Investment Performance Standards (GIPS)
+
 ## References
 
-* Exam content outline: ???
+* Exam content outline: https://www.cfainstitute.org/en/programs/cfa/curriculum/study-sessions
 * Textbook: ???
 * Mock exams: ???
 * Formula sheets: ???

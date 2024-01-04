@@ -1,6 +1,7 @@
 # Investment Dated
 
-Unsorted notes. Likely belong to either QuantStrategy2023, CFFEMTI, or pending migration of Investment/Wiki notes from work.
+Unsorted notes. The most useful aspects are "observations": facts, trends, phenomenon that we keep a note of.
+Likely belong to either QuantStrategy2023, CFFEMTI, or pending migration of Investment/Wiki notes from work.
 
 ## 20231228
 
