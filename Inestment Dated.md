@@ -24,3 +24,5 @@ Tags: Observation
 Simulation must be done in return space otherwise the output distribution might be meaningless. E.g. when considered in returns, both SPX and AAPL looks like some sort of very thin normal distribution, and the simulation outcome from this is normal distribution as well.
 
 When not using return space as input, output can seem random or uniform. This is what happened with Ray's https://finrisk.streamlit.app/ in Nov 2023.
+
+Notice the fact that interest rate, and other rates' returns follow a (even if skewed tail) normal-like distribution is SURPRISING fact: "The normal distribution is a key element to modern portfolio theory, a mathematical approach to investing that assumes that certain returns will follow a normal distribution." (https://www.investopedia.com/articles/investing/100714/using-normal-distribution-formula-optimize-your-portfolio.asp)
