@@ -109,3 +109,15 @@ Use LLM based topic/keyword extraction from PDF.
 * Candidate success centeR: https://www.cfainstitute.org/programs/cfa/candidate-success-center
 * CFA Level 1 Financial Modeling Module: https://www.cfainstitute.org/en/programs/cfa/financial-modeling
 * CFA Level 1 Python Programming Fundamentals Module: https://www.cfainstitute.org/en/programs/cfa/python-programming-fundamentals
+
+Kaplan Financial Education Textbooks:
+
+* Schweser's Secret Sauce - Printed (August 2024)
+* Review Workshop Workbooks - Printed (August 2024)
+* Masterclass Workbooks - Printed (August 2024)
+* SchweserNotes Book 1 - Printed (August 2024) 
+* SchweserNotes Book 2 - Printed (August 2024) 
+* SchweserNotes Book 3 - Printed (August 2024) 
+* SchweserNotes Book 4 - Printed (August 2024) 
+* SchweserNotes Book 5 - Printed (August 2024) 
+* Schweser's QuickSheet - Printed (August 2024) 
